@@ -1,3 +1,5 @@
+/*The fingerprint sensor is supported by "Adafruit_Fingerprint.h" created by Adafruit company */
+
 #include <Adafruit_Fingerprint.h>
 #include <Wire.h>
 #include <LiquidCrystal_I2C.h>
